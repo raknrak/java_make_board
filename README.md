@@ -6,7 +6,22 @@
 
 : Java와 JDBC를 사용하여 게시판 CRUD 기능 구현하기
 ```
-프로젝트 기간 : 2023년 10월 16일 ~ 2023년 10월 27일
+기간 : 2023년 10월 16일 ~ 2023년 10월 27일
 ```
+## CRUD 작동
+- Creat
+![create](https://github.com/raknrak/java_make_board/assets/140072536/85a6a0eb-cafb-4b94-af54-8ec8e109be1b)
+- Read and Update
+![readupdate](https://github.com/raknrak/java_make_board/assets/140072536/d7bbaa23-7044-4653-aaf8-c1c095697a18)
+- Read and Delete
+![readdelete](https://github.com/raknrak/java_make_board/assets/140072536/52e7fce4-8ad2-49c0-a396-d5c8c8e24f28)
+- Clear
+![clear](https://github.com/raknrak/java_make_board/assets/140072536/6b6f0b9e-f8f5-4b78-8c47-0eb8148b660b)
+
+## 잘못된 메뉴 입력시 경고메시지 출력 후 다시 메뉴 선택하기
+![returnmenu](https://github.com/raknrak/java_make_board/assets/140072536/19f4e595-1d63-4988-9903-ef36213a7039)
+
+
+
 
 ## 프로젝트 후기
