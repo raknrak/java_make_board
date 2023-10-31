@@ -9,7 +9,7 @@
 기간 : 2023년 10월 16일 ~ 2023년 10월 27일
 ```
 ## CRUD 작동
-- Creat
+- Create
 ![create](https://github.com/raknrak/java_make_board/assets/140072536/85a6a0eb-cafb-4b94-af54-8ec8e109be1b)
 - Read and Update
 ![readupdate](https://github.com/raknrak/java_make_board/assets/140072536/d7bbaa23-7044-4653-aaf8-c1c095697a18)
