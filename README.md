@@ -8,6 +8,13 @@
 ```
 기간 : 2023년 10월 16일 ~ 2023년 10월 27일
 ```
+## 구현기능
+```
+1. 게시글 추가
+2. 게시글 조회/수정/삭제
+3. 게시글 전체 삭제
+```
+
 ## CRUD 작동
 - Create
 ![create](https://github.com/raknrak/java_make_board/assets/140072536/85a6a0eb-cafb-4b94-af54-8ec8e109be1b)
